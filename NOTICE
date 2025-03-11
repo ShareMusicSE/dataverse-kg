@@ -1,0 +1,6 @@
+This project contains code under two different licenses:
+
+1. The original code from https://github.com/Dans-labs/dataverse-kg is licensed under the MIT License (see `LICENSE.MIT`).
+2. Any modifications and new code performed on this repo are licensed under the Anti-Capitalist Software License (see `LICENSE.ACSL`).
+
+By contributing to this project, you agree that your contributions will be licensed under the ACSL.
